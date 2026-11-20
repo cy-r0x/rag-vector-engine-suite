@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/cy-r0x/rag-vector-engine.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/cy-r0x/rag-vector-engine-frontend.git
